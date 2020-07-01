@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baf31c16-1ade-4332-821e-6a723fa275e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +17,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1e5lWOJ3ohz4Q6aXZvbjy2AnM83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.callAPI">
+  <component name="RunManager" selected="Python.createJSON">
     <configuration name="callAPI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,31 +85,34 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="669" y="97" key="#callAPI" timestamp="1593633341037">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="97" key="#callAPI/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341037" />
-    <state x="669" y="97" key="#createJSON" timestamp="1593633315223">
+    <state x="669" y="97" key="#createJSON" timestamp="1593633539178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="97" key="#createJSON/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633315223" />
-    <state width="1900" height="291" key="GridCell.Tab.0.bottom" timestamp="1593633341092">
+    <state x="669" y="97" key="#createJSON/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633539178" />
+    <state width="1900" height="291" key="GridCell.Tab.0.bottom" timestamp="1593633545521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1900" height="291" key="GridCell.Tab.0.bottom/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341092" />
-    <state width="1900" height="291" key="GridCell.Tab.0.center" timestamp="1593633341091">
+    <state width="1900" height="291" key="GridCell.Tab.0.bottom/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633545521" />
+    <state width="1900" height="291" key="GridCell.Tab.0.center" timestamp="1593633545521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1900" height="291" key="GridCell.Tab.0.center/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341091" />
-    <state width="1900" height="291" key="GridCell.Tab.0.left" timestamp="1593633341091">
+    <state width="1900" height="291" key="GridCell.Tab.0.center/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633545521" />
+    <state width="1900" height="291" key="GridCell.Tab.0.left" timestamp="1593633545520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1900" height="291" key="GridCell.Tab.0.left/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341091" />
-    <state width="1900" height="291" key="GridCell.Tab.0.right" timestamp="1593633341091">
+    <state width="1900" height="291" key="GridCell.Tab.0.left/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633545520" />
+    <state width="1900" height="291" key="GridCell.Tab.0.right" timestamp="1593633545521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1900" height="291" key="GridCell.Tab.0.right/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341091" />
+    <state width="1900" height="291" key="GridCell.Tab.0.right/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633545521" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1593619451351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
