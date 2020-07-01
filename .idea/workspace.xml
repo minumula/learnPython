@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baf31c16-1ade-4332-821e-6a723fa275e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/collections.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e5lWOJ3ohz4Q6aXZvbjy2AnM83" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.callAPI">
+    <configuration name="callAPI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\praveen\Code\Python\learnPython\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/callAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="createJSON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learnPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/createJSON.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.callAPI" />
+        <item itemvalue="Python.createJSON" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="97" key="#callAPI" timestamp="1593633341037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="97" key="#callAPI/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341037" />
+    <state x="669" y="97" key="#createJSON" timestamp="1593633315223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="97" key="#createJSON/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633315223" />
+    <state width="1900" height="291" key="GridCell.Tab.0.bottom" timestamp="1593633341092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.bottom/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341092" />
+    <state width="1900" height="291" key="GridCell.Tab.0.center" timestamp="1593633341091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.center/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341091" />
+    <state width="1900" height="291" key="GridCell.Tab.0.left" timestamp="1593633341091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.left/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341091" />
+    <state width="1900" height="291" key="GridCell.Tab.0.right" timestamp="1593633341091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="291" key="GridCell.Tab.0.right/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593633341091" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1593619451351">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/-4920.0.1500.980/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1593619451351" />
+  </component>
+</project>
